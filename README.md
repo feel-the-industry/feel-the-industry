@@ -16,7 +16,7 @@ Are you a college student looking to gain industry experience? Apply to our prog
 
 ## Connect With Us
 - [Website](https://www.feeltheindustry.com)
-- [Discord](https://twitter.com/feeltheindustry)
 - [LinkedIn](https://www.linkedin.com/company/feeltheindustry)
+- [Email](feeltheindustry@gmail.com)
 
 Let's build the future together!
